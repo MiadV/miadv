@@ -27,7 +27,7 @@
 
 **Note:** These are mostly experimental projects done in simple html/css stack.
 
-- [Minimal Blogger - Women's Lifestyle Blog - Template [HTML, SCSS, JS]](https://github.com/MiadV/Minimal-Blogger-Structure)
+- [Minimal Blogger - Women's Lifestyle Blog - Template [HTML, SCSS, JS]](https://github.com/MiadV/Minimal-Blogger-Women-Lifestyle-Blog-Template)
 - [GilasCo Landing Page [React.js]](https://github.com/MiadV/gilasco-landing-page)
 - [Responsive Fashion Landing Page [HTML, SCSS, JS]](https://github.com/MiadV/Responsive-Fashion-Landing-Page-Hero-Section-Using-HTML-CSS-JavaScript-Mobile-First)
 - [E-Commerce Beauty Shop - Template [HTML, SCSS, JS]](https://github.com/MiadV/ecommerce-template-beautyshop)
