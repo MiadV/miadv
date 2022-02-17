@@ -25,6 +25,19 @@
 
 ### 📂 Some of My Public / Personal Repos
 
+**Note:** These are mostly experimental projects done in simple html/css stack.
+
+- [Minimal Blogger - Women's Lifestyle Blog - Template [HTML, SCSS, JS]](https://github.com/MiadV/Minimal-Blogger-Structure)
+- [Responsive Fashion Landing Page [HTML, SCSS, JS]](https://github.com/MiadV/Responsive-Fashion-Landing-Page-Hero-Section-Using-HTML-CSS-JavaScript-Mobile-First)
+- [E-Commerce Beauty Shop - Template [HTML, SCSS, JS]](https://github.com/MiadV/ecommerce-template-beautyshop)
+- [Ecommerce Fashion Products Carousel / Slider Using SwiperJs [HTML, SCSS, JS]](https://github.com/MiadV/ecommerce-fashion-products-carousel)
+- [Beautiful Space - Landing Page With Blinking Stars [HTML, SCSS, JS]](https://github.com/MiadV/beautiful-space-landing-page)
+- [Simple Property UI Card with Video on Hover And Dark Mode [HTML, CSS, JS]](https://github.com/MiadV/card-with-video-on-hover)
+- [Customers Reviews Carousel / Slider [HTML, SCSS, JS]](https://github.com/MiadV/Customers-Reviews-Carousel)
+- [Responsive Multi-Step Form [HTML, CSS, JS]](https://github.com/MiadV/simple-multi-step-form)
+- [Css Only Dropdown Menu [HTML, CSS]](https://github.com/MiadV/CSS-Only-Dropdown-Menu)
+- [Some simple HTML Components [HTML, SCSS, JS]](https://github.com/MiadV/html-playground)
+
 ---
 
 ### 📺 Latest YouTube Videos
@@ -42,7 +55,7 @@
 
 ---
 
-### ⚡ Languages and Tools:
+### ⚡ Tech Stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
