@@ -1,20 +1,23 @@
 <p align="center">
     <img  width="100" height="100" src="./assets/MV-Logo.svg">
-    <h3 align="center">Hi👋, I'm <a href="https://www.miadv.dev" alt="blog">Miad V</a></h3>
+    <h1 align="center">Hi👋, I'm <a href="https://www.miadv.dev" alt="blog">Miad V</a></h1>
 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/miad-vosoughi" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:miadv.biz@gmail.com" alt="gmail">
-        <img src="https://img.shields.io/badge/gmail-D14836.svg?style=flat&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white" />
     </a>
     <a href="https://twitter.com/Miad_Vosoughi" alt="twitter">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
     </a>
     <a href="https://www.youtube.com/c/MiadVosoughi" alt="youtube">
-        <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=flat&logo=youTube&logoColor=white" />
+        <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=flat&logo=youTube&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/miadv.dev" alt="instagram">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
     </a>
 </p>
 
@@ -39,7 +42,7 @@
 
 ---
 
-### Languages and Tools:
+### ⚡ Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
