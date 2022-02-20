@@ -44,7 +44,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Responsive Fashion Landing Page Hero Section Using HTML CSS &amp; JavaScript Mobile First](https://www.youtube.com/watch?v=5WHbhwjVSfU)
 - [CSS Animation with Squid Game Logo SVG draw animation #Shorts](https://www.youtube.com/watch?v=MqpSXtvFhXk)
 - [Customers Reviews / Testimonials Carousel / Slider Using HTML CSS &amp; JavaScript With SwiperJs Library](https://www.youtube.com/watch?v=D1ZiN2FuLHA)
