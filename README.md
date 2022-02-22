@@ -4,6 +4,9 @@
 </p>
 
 <p align="center">
+    <a href="https://www.buymeacoffee.com/miad" alt="buymeacoffee">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" />
+    </a>
     <a href="https://www.linkedin.com/in/miad-vosoughi" alt="LinkedIn">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
     </a>
@@ -27,8 +30,11 @@
 
 **Note:** These are mostly experimental projects done in simple html/css stack.
 
+- [My Personal Blog [Nextjs, TailwindCSS]](https://github.com/MiadV/miadv.dev)
+- [Job Seeking Platform - Landing Page [Nextjs, TailwindCSS]](https://github.com/MiadV/hiredli-tw)
 - [Minimal Blogger - Women's Lifestyle Blog - Template [HTML, SCSS, JS]](https://github.com/MiadV/Minimal-Blogger-Women-Lifestyle-Blog-Template)
 - [GilasCo Landing Page [React.js]](https://github.com/MiadV/gilasco-landing-page)
+- [Store Management App [Laravel, React.js, Chakra-UI]](https://github.com/MiadV/store-management)
 - [Responsive Fashion Landing Page [HTML, SCSS, JS]](https://github.com/MiadV/Responsive-Fashion-Landing-Page-Hero-Section-Using-HTML-CSS-JavaScript-Mobile-First)
 - [E-Commerce Beauty Shop - Template [HTML, SCSS, JS]](https://github.com/MiadV/ecommerce-template-beautyshop)
 - [Ecommerce Fashion Products Carousel / Slider Using SwiperJs [HTML, SCSS, JS]](https://github.com/MiadV/ecommerce-fashion-products-carousel)
@@ -44,6 +50,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Responsive Fashion Landing Page Hero Section Using HTML CSS &amp; JavaScript Mobile First](https://www.youtube.com/watch?v=5WHbhwjVSfU)
 - [CSS Animation with Squid Game Logo SVG draw animation #Shorts](https://www.youtube.com/watch?v=MqpSXtvFhXk)
 - [Customers Reviews / Testimonials Carousel / Slider Using HTML CSS &amp; JavaScript With SwiperJs Library](https://www.youtube.com/watch?v=D1ZiN2FuLHA)
