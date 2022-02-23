@@ -38,6 +38,7 @@
 - [Responsive Fashion Landing Page [HTML, SCSS, JS]](https://github.com/MiadV/Responsive-Fashion-Landing-Page-Hero-Section-Using-HTML-CSS-JavaScript-Mobile-First)
 - [E-Commerce Beauty Shop - Template [HTML, SCSS, JS]](https://github.com/MiadV/ecommerce-template-beautyshop)
 - [Ecommerce Fashion Products Carousel / Slider Using SwiperJs [HTML, SCSS, JS]](https://github.com/MiadV/ecommerce-fashion-products-carousel)
+- [TAMAY Group Landing Page [HTML, CSS, JS]](https://github.com/MiadV/tamay-group-landing-page)
 - [Beautiful Space - Landing Page With Blinking Stars [HTML, SCSS, JS]](https://github.com/MiadV/beautiful-space-landing-page)
 - [Simple Property UI Card with Video on Hover And Dark Mode [HTML, CSS, JS]](https://github.com/MiadV/card-with-video-on-hover)
 - [Customers Reviews Carousel / Slider [HTML, SCSS, JS]](https://github.com/MiadV/Customers-Reviews-Carousel)
