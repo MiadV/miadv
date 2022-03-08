@@ -31,7 +31,8 @@
 **Note:** These are mostly experimental projects done in simple html/css stack.
 
 - [My Personal Blog [Nextjs, TailwindCSS]](https://github.com/MiadV/miadv.dev)
-- [Job Seeking Platform - Landing Page [Nextjs, TailwindCSS]](https://github.com/MiadV/hiredli-tw)
+- [Online Marketplace - Landing Page (carousell.com) [Nextjs, TailwindCSS]](https://github.com/MiadV/carousell-tw)
+- [Job Seeking Platform - Landing Page(hiredly.com) [Nextjs, TailwindCSS]](https://github.com/MiadV/hiredli-tw)
 - [Minimal Blogger - Women's Lifestyle Blog - Template [HTML, SCSS, JS]](https://github.com/MiadV/Minimal-Blogger-Women-Lifestyle-Blog-Template)
 - [GilasCo Landing Page [React.js]](https://github.com/MiadV/gilasco-landing-page)
 - [Store Management App [Laravel, React.js, Chakra-UI]](https://github.com/MiadV/store-management)
@@ -51,6 +52,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Responsive Job Seeking Landing Page + Dark Mode using Tailwind CSS and NextJs React](https://www.youtube.com/watch?v=CJW3cIwDScg)
 - [Responsive Fashion Landing Page Hero Section Using HTML CSS &amp; JavaScript Mobile First](https://www.youtube.com/watch?v=5WHbhwjVSfU)
 - [CSS Animation with Squid Game Logo SVG draw animation #Shorts](https://www.youtube.com/watch?v=MqpSXtvFhXk)
