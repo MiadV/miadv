@@ -53,7 +53,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Responsive Job Seeking Landing Page + Dark Mode using Tailwind CSS and NextJs React](https://www.youtube.com/watch?v=CJW3cIwDScg)
 - [Responsive Fashion Landing Page Hero Section Using HTML CSS &amp; JavaScript Mobile First](https://www.youtube.com/watch?v=5WHbhwjVSfU)
 - [CSS Animation with Squid Game Logo SVG draw animation #Shorts](https://www.youtube.com/watch?v=MqpSXtvFhXk)
